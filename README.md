@@ -66,6 +66,14 @@ src/
 - **Context Management**: Global state management for user data and app state
 - **Service Layer**: Abstracted API calls with mock implementations
 
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/jyotsna030/Zenario/blob/main/Architecture%20Diagram.png)
+
+## Flowchart
+
+![Flowchart](https://github.com/jyotsna030/Zenario/blob/main/Flowchart.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
