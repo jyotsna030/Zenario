@@ -14,6 +14,11 @@
 
 Zenario is a comprehensive AI-powered career planning platform designed specifically for students. It leverages advanced AI technologies to provide personalized career guidance, skill gap analysis, and job recommendations to help students navigate their professional journey with confidence.
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/dMTKCNA7KVg/0.jpg)](https://www.youtube.com/watch?v=dMTKCNA7KVg)
+
+
 ### ✨ Key Features
 
 - **📄 Smart Resume Analysis** - Upload and analyze resumes using AI-powered text extraction
@@ -147,7 +152,7 @@ npm run lint     # Run ESLint
 VITE_APP_NAME=Zenario
 VITE_APP_VERSION=0.1.0
 
-# API Endpoints (Mocked)
+# API Endpoints
 VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT=api_key
 VITE_AZURE_OPENAI_ENDPOINT=api_key
 VITE_AZURE_ML_ENDPOINT=api_key
@@ -160,25 +165,27 @@ The app uses a custom Tailwind configuration optimized for the design system:
 - Responsive breakpoints
 - Component-specific utilities
 
-## 📊 Mock Data & Services
-
-Since this is a demonstration app, all AI services are mocked with realistic data:
+## 📊 AI-Powered Data & Services
 
 ### Resume Service
-- Simulates Azure Document Intelligence text extraction
-- Returns structured resume data with skills, experience, and education
+
+* Utilizes **Azure Document Intelligence** for extracting structured resume data, including skills, experience, and education.
 
 ### Skill Analysis Service
-- Mimics Azure ML skill gap analysis
-- Provides categorized skill assessments with proficiency levels
+
+* Performs **skill gap analysis** using **Azure Machine Learning** models.
+* Provides categorized skill assessments with detailed proficiency levels.
 
 ### Career Path Service
-- Generates multiple career progression options
-- Includes timeline estimates and step-by-step guidance
+
+* Generates **personalized career progression paths** based on individual profiles.
+* Offers timeline estimates and step-by-step career growth guidance.
 
 ### Job Recommendation Service
-- Returns curated job listings with match percentages
-- Filters based on skills, location, and career goals
+
+* Delivers **curated job recommendations** with relevance match percentages.
+* Supports filtering based on skills, location preferences, and career aspirations.
+
 
 ## 🧪 Testing
 
