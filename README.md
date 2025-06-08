@@ -1,7 +1,7 @@
 # Zenario - AI-Powered Student Career Planning App
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/3184405/pexels-photo-3184405.jpeg?auto=compress&cs=tinysrgb&w=400&h=200&dpr=2" alt="Zenario Banner" width="600" height="200" style="border-radius: 10px;">
+  <img src="[https://images.pexels.com/photos/3184405/pexels-photo-3184405.jpeg?auto=compress&cs=tinysrgb&w=400&h=200&dpr=2" alt="Zenario Banner](https://github.com/jyotsna030/Zenario/blob/main/screencapture-zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-5173-6ba59070-local-credentialless-webcontainer-api-io-2025-06-06-11_06_29.png)" width="600" height="200" style="border-radius: 10px;">
   
   [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
